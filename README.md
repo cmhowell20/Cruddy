@@ -1,6 +1,6 @@
 # The Cruddy App
 
-This is a Todo app that allows users to Create, Read, Update, Delete data. It also allows the user to save data locally.
+This is a Information collection app that allows users to Create, Read, Update, Delete data. It also allows the user to save data locally.
 
 ## `Components Used`
 
